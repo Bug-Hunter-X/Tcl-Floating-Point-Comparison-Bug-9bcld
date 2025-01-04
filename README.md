@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl related to floating-point number comparisons. The `bug.tcl` file contains a procedure that exhibits unexpected behavior due to the limitations of floating-point precision and the use of the `==` operator for comparisons. The `bugSolution.tcl` file provides a corrected version that addresses this issue.
