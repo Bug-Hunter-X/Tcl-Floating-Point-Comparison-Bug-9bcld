@@ -1,0 +1,1 @@
+proc correctProc {a b} {if {$a-0 < 1e-6} {return 0} {return $a + $b}} 
